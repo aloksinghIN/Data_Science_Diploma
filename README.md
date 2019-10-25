@@ -39,7 +39,7 @@ Developed classification model using SVM and Random Forest to identify digits fr
 
 Predicted telecom customers likely to churn with 85% accuracy by analyzing 7000+ customer data. Identified best model out of Logistic, Decision Tree and Random Forest.
 
-#### [9] Market Capstone Project:
+#### [9] Market Mix Modelling in E-commerce  (Capstone Project):
 
 ##### Background :
 
